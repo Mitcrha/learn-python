@@ -1,0 +1,12 @@
+Mitra Aza
+#Fun Fact: Oke deh
+name="""
+M           M   I   T T T T T   R R R        A A 
+M  M      M M   I       T       R    R      A   A
+M   M    M  M   I       T       R     R   A       A
+M    M  M   M   I       T       R   R     A A A A A
+M     M     M   I       T       R R       A       A
+M           M   I       T       R   R     A       A
+M           M   I       T       R     R   A       A
+"""
+print(name)
